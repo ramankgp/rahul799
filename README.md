@@ -1,3 +1,5 @@
+<img src="https://github.com/rahul799/rahul799/blob/master/Hi.gif" alt="alt text" width="100" height="100" />
+
 ### Hi there 👋 Rahul Here..
 
 - 🔭 I’m currently working on Bio-Statistical Models related to machine learning.
