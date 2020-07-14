@@ -9,3 +9,4 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I am a Geologist too.
 
+![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rahul799&show_icons=true&hide_border=true)
