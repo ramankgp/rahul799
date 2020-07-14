@@ -2,6 +2,8 @@
 
 ### Hi there 👋 Rahul Here..
 
+![](https://visitor-badge.glitch.me/badge?page_id=rahul799.rahul799)
+
 - 🔭 I’m currently working on Bio-Statistical Models related to machine learning.
 - 🌱 I’m currently learning flutter
 - 💬 Ask me about **Data Science, DevOps or DSA**
